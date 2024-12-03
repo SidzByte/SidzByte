@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth Singh!  
 
-A **student**, **web developer**, and a passionate technophile exploring innovative solutions to real-world problems through technology.  
+ 
 
 ---
 
@@ -8,14 +8,14 @@ A **student**, **web developer**, and a passionate technophile exploring innovat
 - 🔭 I’m currently enhancing my skills in Web Development and exploring IoT projects.  
 - 👯 I’m looking to collaborate on full-stack and IoT-based projects.  
 - 🤝 I’m open to contributions and discussions on creative tech solutions.  
-- 🌱 I’m currently building tools to simplify daily tasks like **Weather-App** and **Real-Time EV Data Logger**.  
+- 🌱 I’m currently building tools to simplify daily tasks like **Real-Time EV Data Logger**.  
 - 💬 Ask me about Web Development, IoT, or any tech in general.  
 - ⚡ Fun fact: I enjoy solving problems with code and sharing ideas with the community!  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SidzByte1)  
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/siddharth_8796?t=Gi-LgbltFfkQxwXVfss1Qg&s=08)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/why_siddharth/?hl=en)  
 
@@ -35,13 +35,13 @@ A **student**, **web developer**, and a passionate technophile exploring innovat
 ---
 
 ## 📊 GitHub Stats:
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-singh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-singh&layout=compact&theme=radical)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidzByte&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidzByte&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddharth-singh&theme=radical&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SidzByte&theme=radical&no-frame=true&no-bg=true)
 
 ---
 
@@ -51,4 +51,4 @@ A **student**, **web developer**, and a passionate technophile exploring innovat
 ---
 
 ## 🔝 Top Contributed Repo:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=siddharth-singh&limit=1&theme=radical)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SidzByte&limit=1&theme=radical)
