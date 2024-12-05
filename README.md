@@ -14,9 +14,9 @@
 ---
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/why_siddharth/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh1)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siddharth_8796?t=Gi-LgbltFfkQxwXVfss1Qg&s=08)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/why_siddharth/?hl=en)
 
 ---
 
@@ -44,8 +44,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidzByte&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidzByte&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=SidzByte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SidzByte&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidzByte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
 
 ---
 
