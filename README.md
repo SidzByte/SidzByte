@@ -5,11 +5,11 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently enhancing my skills in Web Development and exploring IoT projects.  
-- 👯 I’m looking to collaborate on full-stack and IoT-based projects.  
-- 🤝 I’m open to contributions and discussions on creative tech solutions.  
-- 🌱 I’m currently building tools to simplify daily tasks.  
-- 💬 Ask me about Web Development, IoT, or any tech in general.  
-- ⚡ Fun fact: I have great interest in tech news.
+- 👯 Open to collaborating on full-stack applications and IoT-based innovations.  
+- 🤝 Passionate about contributing to creative tech solutions and brainstorming new ideas.  
+- 🌱 Building tools to simplify daily life—merging technology with practicality. 
+- 💬 Ask me about Web Development, IoT, or technology trends in general.  
+- ⚡ Fun fact: When I’m not coding, I’m probably reading up on the latest tech trends.
 
 ---
 
@@ -21,22 +21,24 @@
 ---
 
 ## 💻 Tech Stack:
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" height="40">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="40">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&size=large)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=large)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&size=large)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&size=large)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&size=large)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&size=large)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&size=large)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&size=large)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&size=large)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&size=large)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&size=large)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&size=large)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&size=large)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&size=large)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white&size=large)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&size=large)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&size=large)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-6A51A3?style=for-the-badge&logo=cloudinary&logoColor=white&size=large)
 
 
 ---
