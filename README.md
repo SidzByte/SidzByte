@@ -9,7 +9,7 @@
 - 🤝 Passionate about contributing to creative tech solutions and brainstorming new ideas.  
 - 🌱 Building tools to simplify daily life—merging technology with practicality. 
 - 💬 Ask me about Web Development, IoT, or technology trends in general.  
-- ⚡ Fun fact: I once tried making a Shadow Clone Jutsu… and just ended up talking to myself 🤦‍♂🌀✨
+- ⚡ Fun fact: I have more tabs open than I have thoughts. Multitasking? Or just chaos? 🧠🌀💻
 
 ---
 
